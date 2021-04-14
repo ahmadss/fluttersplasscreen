@@ -1,5 +1,7 @@
 # flutter_contoh
 
+ini adalah aplikasi splassrceen Menggunkan Flutter
+
 A new Flutter application.
 
 ## Getting Started
